@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+.item-box {
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    /* display: flex; */
+    margin : 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
